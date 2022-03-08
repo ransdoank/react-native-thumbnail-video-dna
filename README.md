@@ -1,13 +1,20 @@
 <h1>
-  react-native-thumbnail-video &middot;
+  react-native-thumbnail-video-dna &middot;
  
   <a href="https://travis-ci.org/lucasbento/react-native-thumbnail-video">
     <img src="https://travis-ci.org/lucasbento/react-native-thumbnail-video.svg?branch=master" />
   </a>
 </h1>
+
 <p>
-  Easily show thumbnails for videos using React Native.
+    This package its fork and basic from <a href="https://github.com/lucasbento">Lucas repo </a> 
 </p>
+
+
+<p>
+    Easily show thumbnails for videos using React Native.
+</p>
+
 
 ## Demo
 
@@ -20,7 +27,7 @@
 ## Installation
 
 ```sh
-yarn add react-native-thumbnail-video
+yarn add react-native-thumbnail-video-dna
 ```
 
 ## Usage
